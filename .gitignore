@@ -1,1 +1,3 @@
 test.rest
+.env
+.deno_plugins
